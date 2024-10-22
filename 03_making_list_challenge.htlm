@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Your learning list</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1> The List of ten (10) best IDEs use across different programming communities:</h1>
+        <P> <ul>
+            <li>Android Studio </li>
+            <li>Atom</li>
+            <li>Eclipse</li>
+            <li>IntelliJ IDEA </li>
+            <li>Jupyter Notebook </li>
+            <li> NetBeans</li>
+            <li> PyCharm </li>
+            <li>Sublime Text </li>
+            <li> Visual Studio Code (VS Code)</li>
+            <li> Xcode </li>
+            </ul>
+        </p>
+        <h1> The list of IDE based on popularity and wide usage:</h1>
+        <P> 
+            <ol>
+            <li>Visual Studio Code (VS Code) </li>
+            <li>PyCharm </li>
+            <li>IntelliJ IDEA </li>
+            <li>Sublime Text</li>
+            <li> Eclipse </li>
+            <li> Atom </li>
+            <li>Android Studio </li>
+            <li> NetBeans </li>
+            <li> Xcode </li>
+            <li> Jupyter Notebook </li>
+            </ol>
+        </p>
+    </body>
+</html>
+
