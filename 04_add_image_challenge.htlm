@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+        <p>I would see scenes like <em> reflection of nature</em> 
+        <img src="https://imagesbytk.com/product_images/uploaded_images/1392-watchman-sunset-reflection-zion-national-park.jpg" alt="reflection of nature" width="230" height="200"></p>
+        <p>And animals like <em> elephant </em> <img src="https://thumbs.dreamstime.com/b/title-wildlife-wonders-who-nature-enthusiasts-animal-lovers-what-captivating-scenes-animals-their-natural-habitats-306934715.jpg" alt="elephant" width="200" height="200"> </p>
+        <p>And eat food like <em> fruits and vegetables </em> <img src="https://www.scripps.org/sparkle-assets/images/fruits_and_vegetables_1200x750-14d2361da5b94c82e03246168212ff6b.jpg" alt="fruits and vegetables" width="200" height="200"></p>
+    </body> 
+</html>
