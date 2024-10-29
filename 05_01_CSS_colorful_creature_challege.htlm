@@ -4,16 +4,17 @@
         <meta charset="utf-8">
         <title>Challenge: Colorful creature</title>
 
-
-
     </head>
     <body>
 
         <h1>The coolest creature</h1>
 
-        <p>The <em> elephant</em> is awesome because <strong>are highly intelligent animals, exhibiting complex problem-solving abilities, memory, and social learning. They can use tools, recognize themselves in mirrors, and even understand human commands.</strong>.
-        <p> <img src="https://thumbs.dreamstime.com/b/title-wildlife-wonders-who-nature-enthusiasts-animal-lovers-what-captivating-scenes-animals-their-natural-habitats-306934715.jpg" alt="elephant" width="200" height="200"></p>
-        </p>
+        <p> <img src="https://thumbs.dreamstime.com/b/title-wildlife-wonders-who-nature-enthusiasts-animal-lovers-what-captivating-scenes-animals-their-natural-habitats-306934715.jpg" 
+                 alt="elephant" width="200" height="200">
+       </p>
+        <P> The <em> elephant</em> is awesome because <strong>are highly intelligent animals, exhibiting complex problem-solving abilities, 
+          memory, and social learning. They can use tools, recognize themselves in mirrors, and even understand human commands.</strong>.
+       </p>
 
     </body>
 </html>

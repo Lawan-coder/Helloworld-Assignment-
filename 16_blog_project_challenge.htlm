@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. Lawan Hassan Adamu's Web Development Journey</title>
+    <style>
+        /* General page styling */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        /* Style for headings */
+        h1, h2 {
+            color: #2c3e50;
+        }
+        h1 {
+            font-size: 2.5em;
+            text-align: center;
+            font-weight: bold;
+        }
+        h2 {
+            font-size: 2em;
+            margin-top: 20px;
+        }
+        /* Paragraph and link styling */
+        p {
+            font-size: 1.1em;
+            margin: 10px 0;
+        }
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        /* Blog post styling */
+        .post {
+            background-color: #fff;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        /* Table of contents styling */
+        .toc {
+            background-color: #e8f6f9;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+<img src="https://avatars.githubusercontent.com/u/182854471?v=4" alt="Lawan Hassan Adamu" width="200" height="200">
+    <h1>My Journey in Programming & Web Development</h1>
+
+    <div class="toc">
+        <h2>Table of Contents</h2>
+        <ul>
+            <li><a href="#post1">My Journey into Programming</a></li>
+            <li><a href="#post2">Learning Web Development</a></li>
+            <li><a href="#post3">Exploring Figma and UI/UX Design</a></li>
+            <li><a href="#post4">Setting Up Git and GitHub</a></li>
+            <li><a href="#post5">Mastering HTML and CSS</a></li>
+        </ul>
+    </div>
+
+    <div id="post1" class="post">
+        <h2>My Journey into Programming</h2>
+        <p>As a cohort 6 member of <a href="https://www.ehealthafrica.org/academy" target="_blank">eHA Academy</a>, I began my journey to become a programmer and software developer. The experience has been incredibly enlightening, providing me with the skills and knowledge needed to thrive in the digital world. It's been a blend of theory, practical projects, and hands-on learning that has prepared me for a career in software development.</p>
+    </div>
+
+    <div id="post2" class="post">
+        <h2>Learning Web Development</h2>
+        <p>During my time at eHA Academy, I learned the basics of web development. This included setting up Git and GitHub accounts to manage version control, writing basic HTML, and using CSS to style web pages. I've also gained exposure to web design tools like Figma and the importance of user experience in web development.</p>
+    </div>
+
+    <div id="post3" class="post">
+        <h2>Exploring Figma and UI/UX Design</h2>
+        <p>Figma has become an essential tool in my web design process. It allows me to create sleek, functional prototypes while keeping user experience at the forefront. Understanding UI/UX design principles is critical when building applications that are both aesthetically pleasing and easy to navigate for users. This part of my learning journey has shown me how design is an integral part of software development.</p>
+    </div>
+
+    <div id="post4" class="post">
+        <h2>Setting Up Git and GitHub</h2>
+        <p>One of the most valuable tools I've learned to use is Git, along with GitHub for version control. These tools allow me to efficiently manage my projects, track changes, and collaborate with other developers. Understanding how to work with Git has made it much easier to handle various aspects of coding, including branching and merging different versions of my work.</p>
+    </div>
+
+    <div id="post5" class="post">
+        <h2>Mastering HTML and CSS</h2>
+        <p>Learning HTML and CSS has been an enjoyable experience. HTML forms the backbone of any website, providing structure and meaning to the content. CSS complements it by adding styles, fonts, colors, and layouts. Through eHA Academy, I've been able to experiment with these technologies to build responsive and visually appealing web pages. I now understand how to create efficient code that delivers both functionality and design.</p>
+    </div>
+
+</body>
+</html>

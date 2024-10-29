@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recipe Book</title>
+</head>
+<body>
+
+    <h1>Recipe Book</h1>
+
+    <!-- Table of Contents -->
+    <h2>Table of Contents</h2>
+    <ul>
+        <li><a href="#spicy-chicken-wrap">Spicy Grilled Chicken Wrap</a></li>
+        <li><a href="#creamy-pesto-pasta">Creamy Pesto Pasta</a></li>
+        <li><a href="#mediterranean-veggie-bowl">Mediterranean Veggie Bowl</a></li>
+    </ul>
+
+<p> 
+<!-- Recipe 1 -->
+<h2 id="spicy-grilled-chicken-wrap">Spicy Grilled Chicken Wrap </h2>
+  <img src="https://theflavoursofkitchen.com/wp-content/uploads/2022/01/Grilled-Chicken-Wrap-3-scaled.jpg" alt="Spicy Grilled Chicken Wrap" width="250" height="200"></p>
+<h3> Ingredients:</h3>
+
+<table border="1"> <tr> <th>Ingredient</th> <th>Quantity</th> </tr> <tr> <td>Grilled Chicken Breast</td> <td>1 piece</td> </tr> <tr> <td>Whole Wheat Tortilla</td> <td>1 wrap</td> </tr> <tr> <td>Fresh Lettuce</td> <td>1 cup</td> </tr> <tr> <td>Sliced Tomatoes</td> <td>1/2 cup</td> </tr> <tr> <td>Red Onion</td> <td>1/4 cup</td> </tr> <tr> <td>Spicy Mayo Sauce</td> <td>2 tbsp</td> </tr> <tr> <td>Shredded Cheese</td> <td>1/4 cup</td> </tr> </table> </p>
+
+<h3>Details:</h3>
+    <ul>
+        <li><strong>Servings:</strong> 1</li>
+        <li><strong>Prep Time:</strong> 10 minutes</li>
+        <li><strong>Cook Time:</strong> 10 minutes</li>
+    </ul>
+
+    <h3>Steps:</h3>
+    <ol>
+        <li>Grill the chicken breast until fully cooked and juicy.</li>
+        <li>Warm the whole wheat tortilla in a pan for 1-2 minutes.</li>
+        <li>Spread spicy mayo sauce evenly on the tortilla.</li>
+        <li>Layer fresh lettuce, sliced tomatoes, red onion, and shredded cheese on the tortilla.</li>
+        <li>Place the grilled chicken on top of the ingredients.</li>
+        <li>Roll the tortilla into a wrap and cut in half before serving.</li>
+    </ol>
+<a href="https://theflavoursofkitchen.com/grilled-chicken-wrap/"> Click here for more information on Spicy Grilled Chicken Wrap</a>
+<p> 
+<!-- Recipe 2 -->
+<h2 id="creamy-pesto-pasta">Creamy Pesto Pasta</h2>
+<img src="https://shewearsmanyhats.com/wp-content/uploads/2009/08/creamy-pesto-pasta-new4.jpg" alt="Creamy Pesto Pasta" width="250" height="200"></p>
+<h3> Ingredients:</h3>
+
+<table border="1"> <tr> <th>Ingredient</th> <th>Quantity</th> </tr> <tr> <td>Fettuccine Pasta</td> <td>200g</td> </tr> <tr> <td>Creamy Pesto Sauce</td> <td>1/2 cup</td> </tr> <tr> <td>Grilled Mushrooms</td> <td>1/2 cup</td> </tr> <tr> <td>Cherry Tomatoes</td> <td>1/4 cup</td> </tr> <tr> <td>Fresh Spinach</td> <td>1 cup</td> </tr> <tr> <td>Grated Parmesan Cheese</td> <td>1/4 cup</td> </tr> </table>
+
+ <h3>Details:</h3>
+    <ul>
+        <li><strong>Servings:</strong> 2</li>
+        <li><strong>Prep Time:</strong> 10 minutes</li>
+        <li><strong>Cook Time:</strong> 15 minutes</li>
+    </ul>
+
+    <h3>Steps:</h3>
+    <ol>
+        <li>Boil the fettuccine pasta in salted water until al dente. Drain and set aside.</li>
+        <li>Heat a pan and sauté the grilled mushrooms and cherry tomatoes.</li>
+        <li>Add fresh spinach to the pan and cook until wilted.</li>
+        <li>Stir in the creamy pesto sauce and cook for 2-3 minutes.</li>
+        <li>Combine the cooked fettuccine with the sauce and vegetables.</li>
+        <li>Sprinkle grated Parmesan cheese on top before serving.</li>
+    </ol>
+</p>
+<a href="https://shewearsmanyhats.com/creamy-pesto-pasta-oh-my/">Click here for more information on Creamy Pesto Pasta </a>
+<p>
+<!-- Recipe 3 -->
+<h2 id="mediterranean-veggie-bowl">Mediterranean Veggie Bowl</h2>
+<img src="https://www.culinaryhill.com/wp-content/uploads/2022/12/Mediterranean-Buddha-Bowl-Culinary-Hill-LR-05.jpg" alt="Mediterranean Bowl" width="250" height="200"></p>
+<h3> Ingredients:</h3>
+
+<table border="1"> <tr> <th>Ingredient</th> <th>Quantity</th> </tr> <tr> <td>Quinoa or Couscous</td> <td>1 cup (cooked)</td> </tr> <tr> <td>Roasted Zucchini</td> <td>1/2 cup</td> </tr> <tr> <td>Roasted Eggplant</td> <td>1/2 cup</td> </tr> <tr> <td>Hummus</td> <td>2 tbsp</td> </tr> <tr> <td>Feta Cheese</td> <td>1/4 cup</td> </tr> <tr> <td>Olives</td> <td>1/4 cup</td> </tr> <tr> <td>Cucumber Slices</td> <td>1/2 cup</td> </tr> <tr> <td>Lemon-Tahini Dressing</td> <td>2 tbsp</td> </tr> </table>
+Details:
+
+    <h3>Details:</h3>
+    <ul>
+        <li><strong>Servings:</strong> 2</li>
+        <li><strong>Prep Time:</strong> 15 minutes</li>
+        <li><strong>Cook Time:</strong> 10 minutes</li>
+    </ul>
+
+    <h3>Steps:</h3>
+    <ol>
+        <li>Cook quinoa or couscous according to package instructions and set aside.</li>
+        <li>Roast zucchini and eggplant in the oven until tender and lightly browned.</li>
+        <li>In a bowl, arrange the cooked quinoa, roasted vegetables, and cucumber slices.</li>
+        <li>Add hummus, feta cheese, and olives on top of the bowl.</li>
+        <li>Drizzle with lemon-tahini dressing before serving.</li>
+    </ol>
+<a href="https://www.culinaryhill.com/mediterranean-vegan-bowl/"> Click here for more information on Mediterranean Veggie Bowl </a>
+</p>
+
+</body>
+</html>

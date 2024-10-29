@@ -1,0 +1,57 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Position planet</title>
+        <style>
+            body {
+                text-align: center; /* Center the content on the page */
+                margin-top: 50px; /* Add space from the top */
+            }
+
+            #planet-container {
+                position: absolute; /* Relative positioning for the container */
+                display: inline-block; /* Ensure planet and creature are aligned together */
+                margin-bottom: 20px; /* Add space between the planet and the greeting */
+                z-index : 1;
+            }
+
+            #planet {
+                width: 300px; /* Planet size */
+            }
+
+            #creature {
+                position: absolute; /* Absolute positioning for the creature */
+                top: 50px; /* Adjust to sit on top of the planet */
+                left: 50%; /* Center horizontally */
+                transform: translateX(-50%); /* Correct centering */
+                width: 100px; /* Creature size */
+                z-index : 2;
+            }
+
+            #greeting {
+                position: relative; /* Absolute positioning for the creature */
+                top: 115px; /* Adjust to sit on top of the planet */  
+                background: rgb(255, 255, 255);
+                border: 2px solid black;
+                font-family: "Comic Sans MS", fantasy;
+                padding: 5px;
+                width: 262px;
+                margin: 0 auto; /* Center the greeting */
+                text-align: center;
+                z-index : 3;
+            }
+        </style>
+    </head>
+    <body>
+
+        <div id="planet-container">
+            <img id="planet" src="https://www.kasandbox.org/programming-images/space/planet.png">
+            <img id="creature" src="https://www.kasandbox.org/programming-images/avatars/mr-pink.png">
+        </div>
+
+        <div id="greeting">
+            <p>Hello! Welcome to position planet!</p>
+        </div>
+
+    </body>
+</html>

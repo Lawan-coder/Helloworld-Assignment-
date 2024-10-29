@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workshop Event Invite</title>
+    <style>
+        /* General body styling */
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+        }
+        
+        /* Event Invite Container */
+        .event-invite {
+            max-width: 600px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Title of the Event */
+        .event-title {
+            font-size: 2.2em;
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+
+        /* Event Details */
+        .event-details {
+            font-size: 1.1em;
+            color: #555;
+            margin-bottom: 20px;
+        }
+
+        /* Guest List */
+        .guest-list {
+            text-align: left;
+            margin-bottom: 20px;
+        }
+
+        .guest-list h3 {
+            font-size: 1.5em;
+            color: #2c3e50;
+        }
+
+        .guest-list ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .guest-list ul li {
+            background-color: rgba(255, 87, 51, 0.5);
+            padding: 8px;
+            margin-bottom: 5px;
+            border-radius: 5px;
+        }
+
+        /* RSVP Button */
+        .rsvp-button {
+            display: inline-block;
+            padding: 15px 25px;
+            background-color: #FF5733;
+            color: white;
+            text-decoration: none;
+            font-size: 1em;
+            border-radius: 10px;
+            transition: background-color 0.3s;
+        }
+
+        .rsvp-button:hover {
+            background-color: #2980b9;
+        }
+
+                   .event-title {
+                font-size: 1.8em;
+                background-color: #FF5733
+            }
+
+            .rsvp-button {
+                padding: 12px 20px;
+                font-size: 1em;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="event-invite">
+        <!-- Event Title -->
+        <h1 class="event-title">AI and Web Development Workshop</h1>
+<img class="photo" src="https://academy.ehealthafrica.org/assets/images/logo.svg" alt="eHA Academy Logo"width="200" height="200">
+        <!-- Event Details -->
+        <p class="event-details">
+            <div class="event-details" <strong>Date:</strong> November 15, 2024<br>
+            <strong>Time:</strong> 9:00 AM - 4:00 PM<br> </div> 
+  
+            <strong>Venue:</strong> e-Health Africa Academy, Resource Room
+        </p>
+
+        <!-- Guest List -->
+        <div class="guest-list">
+            <h3>Guests Speakers </h3>
+            <ul>
+                <li>Dr. Aminu Kabir - UI/UX Specialist</li>
+                <li>Dr. James John  - Figma Specialist</li>
+                <li>Dr. Sanusi Aminu- Web Development Expert</li>
+            </ul>
+        </div>
+
+        <!-- RSVP Button -->
+        <a href="#" class="rsvp-button" aria-label="RSVP for the Workshop">RSVP Now</a>
+    </div>
+
+</body>
+</html>

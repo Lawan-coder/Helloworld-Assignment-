@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Your learning list</title>
+        <meta charset="utf-8">
+        <style>
+        h1 { 
+            color: rgb(0, 0, 255);
+            }
+        #Uttar_Pradesh: {background-color : rgb(0, 255, 255)
+            }  
+         h2 { 
+            color: rgb(255, 0, 0);
+            }
+              
+         .Key-Features-of-Uttar-Pradesh {background-color : rgb(0, 255, 0)
+            }  
+          
+          #Natural-Beauty {background-color : rgb(0, 255, 0)
+            } 
+          #Travel_Recommendation {background-color : rgb(0, 255, 0)
+            } 
+        </style>
+    </head>
+
+    <body>
+        <h1 id="Uttar_Pradesh:"> Uttar Pradesh </h1>
+        <p> <strong> Uttar Pradesh,</strong> often abbreviated as UP, is a northern state in India and one of the country’s most populous regions. Known for its rich history, vibrant culture, and religious significance, Uttar Pradesh is home to many of India’s iconic landmarks and heritage sites.</p>
+        <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/288px-Taj_Mahal_%28Edited%29.jpeg" alt="Taj Mahal" width="400" height="300"></p>
+        <p> <em> <strong class="Key-Features-of-Uttar-Pradesh"> Key Features of Uttar Pradesh </strong> </em> </p>
+        <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/India-5163_-_Flickr_-_archer10_%28Dennis%29.jpg/134px-India-5163_-_Flickr_-_archer10_%28Dennis%29.jpg" alt="Sarnath" width="200" height="200"> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dept_of_Electrical_Engineering_IIT-BHU.jpg/150px-Dept_of_Electrical_Engineering_IIT-BHU.jpg" alt="IIT Varanasi" width="200" height="200"> 
+        </p>
+        <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dudhwa_National_Park%2C_Lucknow_division%2C_Uttar_Pradesh%2C_India_%2830783128830%29.jpg/150px-Dudhwa_National_Park%2C_Lucknow_division%2C_Uttar_Pradesh%2C_India_%2830783128830%29.jpg" alt="Dudhwa National Park" width="200" height="200"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kashi_Vishwanath.jpg/134px-Kashi_Vishwanath.jpg" alt="Kashi Vishwanath Temple" width="200" height="200"> </p>
+        <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Agra_03-2016_14_Agra_Fort.jpg/288px-Agra_03-2016_14_Agra_Fort.jpg" alt="Agra Fort" width="400" height="300"> </p>
+        <h2> What You'll See :</h2>
+        <P> <ul>
+            <li> <strong id="Natural-Beauty"> Natural Beauty: </strong> </li> </ul>
+            <ol> <li> <em> Dudhwa National Park:</em> A lesser-known gem, this park offers a rich diversity of flora and fauna, including tigers, rhinos, and a variety of bird species.</li>
+            <li> <em> Vindhya and Himalaya Ranges: </em> Uttar Pradesh is bordered by parts of these ranges, offering scenic views and trekking opportunities.</li>
+            </ol>
+        </p>
+        <h2> <strong> Things to Do: </strong>  </h2>
+        <P> 
+            <ul>
+            <li> <strong id= "Travel_Recommendation"> Travel Recommendations:</strong></li> </ul>
+            <ol> <li> <em> Agra:</em> A must-visit for the Taj Mahal, Agra Fort, and local handicrafts.</li>
+            <li> <em> Varanasi: </em> To experience spiritual rituals along the ghats and the evening Ganga Aarti. </li>
+            <li> <em> Lucknow: </em> For its Nawabi heritage, grand mosques, and delicious food. </li>
+            <li> <em> Ayodhya: </em> For those interested in religious history and newly developed tourist infrastructure. </li>
+            </ol>
+        </p>
+    </body>
+</html>
