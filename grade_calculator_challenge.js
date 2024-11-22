@@ -1,4 +1,4 @@
-let mark = prompt("Enter your mark (0 - 100):"); // Prompt user for mark
+let mark = prompt("Enter your mark (0 - 100):");
 mark = Number(mark); 
 if (mark >= 70 && mark <= 100) {
   alert("Grade: A");
