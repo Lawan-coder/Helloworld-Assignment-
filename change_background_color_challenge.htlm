@@ -24,7 +24,7 @@
 
   <script>
     function changeBackgroundColor() {
-      document.body.style.backgroundColor = "lightgreen"; // Changes the background color to blue
+      document.body.style.backgroundColor = "lightgreen";
     }
   </script>
 </body>
