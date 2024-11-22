@@ -1,7 +1,5 @@
-// Grade Calculator
 let mark = prompt("Enter your mark (0 - 100):"); // Prompt user for mark
-mark = Number(mark); // Convert the input to a number
-
+mark = Number(mark); 
 if (mark >= 70 && mark <= 100) {
   alert("Grade: A");
 } else if (mark >= 50 && mark <= 60) {
