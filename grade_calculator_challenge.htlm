@@ -10,9 +10,8 @@
   <p>Enter your mark to calculate your grade!</p>
 
   <script>
-    // Grade Calculator
-    let mark = prompt("Enter your mark (0 - 100):"); // Prompt user for mark
-    mark = Number(mark); // Convert the input to a number
+    let mark = prompt("Enter your mark (0 - 100):");
+    mark = Number(mark); 
 
     if (mark >= 70 && mark <= 100) {
       document.write("<h2>Grade: A</h2>");
