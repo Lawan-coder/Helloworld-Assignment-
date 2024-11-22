@@ -5,20 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Prompt and Display User Name</title>
   <script>
-    // JavaScript code to handle the prompt and display
     function greetUser() {
       // Prompt the user for their name
       let userName = prompt("Please enter your name:");
-
-      // Display Hello username! using document.write in <h1> tags
       document.write(`<h1>Hello, ${userName}!</h1>`);
-
-      // Display Hello username! in an alert box
       alert(`Hello, ${userName}!`);
     }
   </script>
 </head>
 <body onload="greetUser()">
-  <!-- The content is dynamically handled via JavaScript -->
 </body>
 </html>
